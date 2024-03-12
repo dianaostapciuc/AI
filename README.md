@@ -1,1 +1,1 @@
-# AI
+~ assignments from artificial intelligence ~
